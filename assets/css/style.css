@@ -3,7 +3,7 @@ body{
     font-family: 'Sriracha', cursive;
     color: #333;
     text-align: center;
-    background-image: url(/workspace/quiz/assets/images/night.jpg)
+    background-image: url(/quiz/assets/images/night.jpg)
 }
 .question{
     font-weight: 600;
