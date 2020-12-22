@@ -41,24 +41,16 @@ I tried a mix of both and lef some questions blank
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
+To deploy it i just pushed it to github and hosted it there
 
 ## Credits
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- I made up all the questions 
 
 ### Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from https://istockphoto.6q33.net/c/77643/435504/4205?u=https%3A%2F%2Fwww.istockphoto.com%2Fvideo%2Ft-l-aerial-view-of-road-intersection-at-night-gm512073338-89176675
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- I thought of this project as i was thinking about online learning during the corna virus
