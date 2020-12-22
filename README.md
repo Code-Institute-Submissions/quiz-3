@@ -1,8 +1,8 @@
-# Your Project's Name
+# Simple English Quiz 
 
-One or two paragraphs providing an overview of your project.
-
-Essentially, this part is your sales pitch.
+This project was a quiz made using javascript to serve as a refresher on simple english grammer.
+With whats going on in the world today something like this can be seen as a good way to keep up to date on learning and help students
+revise.
  
 ## UX
  
